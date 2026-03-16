@@ -6,7 +6,7 @@ Proyecto académico desarrollado con **Spring Boot** para la gestión de manteni
 
 * **Asignatura:** Electiva Profesional I
 * **Docente:** Jhon Cleyber Vivas Banguera
-* **Estudiante:** Steven
+* **Estudiante:** Jheison Estiben Cabal
 * **Año:** 2026
 
 ---
