@@ -1,0 +1,5 @@
+CREATE TABLE IF NOT EXISTS rol (
+  id bigint(20) NOT NULL AUTO_INCREMENT,
+  nombre varchar(60) DEFAULT NULL,
+  PRIMARY KEY (id) USING BTREE
+) ENGINE=InnoDB DEFAULT CHARSET=latin1 COLLATE=latin1_general_cs;
